@@ -4,8 +4,8 @@ import numpy as np
 import time
 
 # --- APNI DETAILS YAHAN DALO ---
-TOKEN = "8085719035:AAEJEcOV8ryEJgPU5EY34OeaoW2BbuvL9II" # Apna pura token dalo
-CHAT_ID = "8522771910"
+TOKEN = "Token" # Apna pura token dalo
+CHAT_ID = "Id"
 URL = "http://10.204.144.135:8080/shot.jpg" # Shot.jpg fast chalta hai
 # ------------------------------
 
