@@ -30,3 +30,14 @@ Users can remotely monitor their environment and receive real-time alerts.
 ---
 
 ## 🏗️ System Architecture
+Old Smartphone Camera ↓ Streaming App (IP Webcam) ↓ Local Server (Python) ↓ AI Processing (OpenCV) ↓ Cloud Storage (Firebase) ↓ User Device (Mobile / Laptop)
+
+## ⚙️ Features
+- Live video streaming  
+- Motion detection  
+- Face detection (AI-based)  
+- Automatic image capture  
+- Alert notifications (Telegram/Email)  
+- Cloud storage support  
+- Remote access  
+
